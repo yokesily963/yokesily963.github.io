@@ -1,1 +1,79 @@
-
+* {
+	margin:0;
+	padding:0;
+}
+body
+{
+  font-size:16px;
+  font:400 16px/1.62 Georgia,"Xin Gothic","Hiragino Sans GB","Droid Sans Fallback","Microsoft YaHei",sans-serif;font-family: 'PT serif',微軟正黑體,微软雅黑,华文细黑,Microsoft Yahei,Hiragino Sans GB,sans-serif;
+  color:#D0CCCC;
+  overflow:hidden;
+  text-shadow: 0px 0px 1px rgba(24, 22, 22, 0.35);
+  background-color:#4cb7ff
+  background-repeat:no-repeat;
+  background-size:100% auto;
+}
+.头像类{
+  text-align:center;
+  margin-top:22px;
+}
+.头像{
+  text-align:center;
+  width: 128px;
+  height: 128px;
+  border: 2px solid #4cb7ff;
+  border-radius: 200px;
+  line-height: 20px;
+  box-shadow:lightblue 0px 0px 30px 5px;
+   }
+.内容{
+  text-align:center;
+  margin-top:0px;
+}
+.name{
+  font-size:26px;
+  color:White;
+  text-align:center;
+}
+.menu1{
+  text-align:center;
+  margin-top:45px;
+}
+.menu2{
+  text-align:center;
+  margin-top:45px;
+}
+.menu3{
+  text-align:center;
+  margin-top:45px;
+}
+.github{
+  text-align:center;
+  width:300px; 
+  height:40px; 
+  border-radius:20px; 
+  border-style:none; 
+  background:#4cb7ff;
+  font-size:16px; 
+  color:rgba(249,248,248,1.00);
+  }
+ .博客{
+  text-align:center;
+  width:300px; 
+  height:40px; 
+  border-radius:20px; 
+  border-style:none; 
+  background:#4cb7ff;
+  font-size:16px; 
+  color:rgba(249,248,248,1.00);
+  }
+  .更多{
+  text-align:center;
+  width:300px; 
+  height:40px; 
+  border-radius:20px; 
+  border-style:none; 
+  background:#4cb7ff;
+  font-size:16px; 
+  color:rgba(249,248,248,1.00);
+  }
