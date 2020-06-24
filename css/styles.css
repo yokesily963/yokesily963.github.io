@@ -11,7 +11,7 @@ body
   text-shadow: 0px 0px 1px rgba(24, 22, 22, 0.35);
   background-color:#cb7ff
   background-repeat: no-repeat;
-  background-size:100% auto;
+  background-size:100%;
 }
 .头像类{
   text-align:center;
