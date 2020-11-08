@@ -1,0 +1,28 @@
+body,html
+{
+  margin:auto;
+  width:100%;
+  height:100%;
+  background-image:url(http://api.duiai.cc/wpimg.php);
+  background-size:100% 100%;
+  background-repeat:no-repeat; 
+  background-position:0px 0px 0px 0px;
+  background-attachment:fixed;
+}
+.div1{
+}
+.error{
+  margin:0px;
+  color:#fff;
+  font-size:100px;
+  margin-left:95px;
+  margin-top:0px;
+}
+.error1{
+  color:#fff;
+  font-size:45px;
+  margin-left:95px;
+  z-index:9999;
+  margin-top:100px;
+  
+}
