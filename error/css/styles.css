@@ -5,7 +5,7 @@ body,html
   height:100%;
 display: flex;
   height: 100vh;
-  background: url("http://api.duiai.cc/wpimg.php") no-repeat center center fixed;
+  background: url("http://api.duiai.cc/wpimg.php") no-repeat fixed;
   background-size: cover;
 }
 .div1{
