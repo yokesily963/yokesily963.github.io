@@ -3,11 +3,12 @@ body,html
   margin:auto;
   width:100%;
   height:100%;
-  background-image:url(http://api.duiai.cc/wpimg.php);
-  background-size:100% 100%;
-  background-repeat:no-repeat; 
-  background-position:0px 0px 0px 0px;
-  background-attachment:fixed;
+display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url("http://api.duiai.cc/wpimg.php") no-repeat center center fixed;
+  background-size: cover;
 }
 .div1{
 }
